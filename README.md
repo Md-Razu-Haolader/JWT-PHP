@@ -7,12 +7,12 @@
 
 1. Call login api and get jwt token from response.
 
-![login-header](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/master/examples/login-header.PNG 'login-header')
-![login-response](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/master/examples/login-response.PNG 'login-response')
+![login-header](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/main/examples/login-header.PNG 'login-header')
+![login-response](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/main/examples/login-response.PNG 'login-response')
 
 2. Call others api using that jwt token.
 
-![getpost](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/master/examples/getpost.PNG 'getpost')
+![getpost](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/main/examples/getpost.PNG 'getpost')
 
 ### Application structure:
 
