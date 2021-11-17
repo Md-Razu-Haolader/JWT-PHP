@@ -11,7 +11,7 @@ $consumerKey = 'qE9EDHEe4y8523nRTgArkfz23fPga';
 $consumerSecret = 'u_HzU0OsX4RCQNTj6AyrmvoiqWhUa';
 $authCode = base64_encode($consumerKey . ':' . $consumerSecret);
 
-$apiUrl = 'http://192.168.10.61:81/test-app/';
+$apiUrl = 'http://localhost/jwt/';
 $loginHeader = [
     'requestType: login',
     'Authorization: Basic ' . $authCode,
