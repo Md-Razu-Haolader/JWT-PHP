@@ -25,5 +25,5 @@
 
 ### Postman request example:
 
-![login-header](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/master/examples/login-header.PNG 'login-header')
+![login-header](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/main/examples/login-header.PNG 'login-header')
 
