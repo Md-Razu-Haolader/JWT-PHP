@@ -18,13 +18,17 @@
 
 1. Application root access file is index.php
 
-2. Api examples are written in src\Services\Api.php file 
+2. Sample api request file is sample_request.php
 
-3. Application services location is src\Services
+3. Api examples are written in src\Services\Api.php file 
 
-4. Application helper functions are written in src\Helper\Common.php file
+4. Application services location is src\Services
 
-5. Application common configuration are written in src\config\common.php
+5. Application helper functions are written in src\Helper\Common.php file
 
-6. Application validation and request handler location is src\Request
+6. Application common configuration are written in src\config\common.php
+
+7. Application validation and request handler location is src\Request
+
+
 
