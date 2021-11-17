@@ -1,0 +1,13 @@
+{
+    "name": "gsl/test-app",
+    "description": "My test app",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
