@@ -29,5 +29,11 @@
 6. Application validation and request handler location is src\Request
 
 
+<<<<<<< HEAD
 
 
+=======
+![login-header](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/main/examples/login-header.PNG 'login-header')
+![login-response](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/main/examples/login-response.PNG 'login-response')
+![getpost](https://github.com/Md-Razu-Haolader/JWT-PHP/blob/main/examples/getpost.PNG 'getpost')
+>>>>>>> fa9a26bfd8d5c55901c5daa9eda77affdbb4187a
